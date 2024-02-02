@@ -2,3 +2,9 @@ body {
     min-height: 100vh;
     min-height: -webkit-fill-available;
 }
+
+.hero-section {
+    background: red;
+    height: 20px;
+    width: 100%;
+}

@@ -4,7 +4,7 @@ body {
 }
 
 .hero-section {
-    background: red;
+    background: blue;
     height: 1000px;
     width: 100%;
 }
@@ -12,5 +12,4 @@ body {
 .main {
     height: 100%;
     background: blue;
-
 }

@@ -5,10 +5,10 @@ body {
 
 .hero-section {
     background: red;
-    height: 20px;
+    height: 40px;
     width: 100%;
 }
 
 .main {
-    
+    height: 100%;
 }

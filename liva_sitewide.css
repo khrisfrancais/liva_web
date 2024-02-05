@@ -1,15 +1,8 @@
 body {
-    min-height: 100vh;
-    min-height: -webkit-fill-available;
 }
 
 .hero-section {
-    background: red;
-    height: 500px;
-    width: 100%;
 }
 
 .main {
-    height: 500px;
-    background: blue;
 }
